@@ -1,0 +1,7 @@
+C:\Users\emman\source\repos\ToweroofHanoi\ToweroofHanoi\bin\Debug\ToweroofHanoi.exe.config
+C:\Users\emman\source\repos\ToweroofHanoi\ToweroofHanoi\bin\Debug\ToweroofHanoi.exe
+C:\Users\emman\source\repos\ToweroofHanoi\ToweroofHanoi\bin\Debug\ToweroofHanoi.pdb
+C:\Users\emman\source\repos\ToweroofHanoi\ToweroofHanoi\obj\Debug\ToweroofHanoi.csprojAssemblyReference.cache
+C:\Users\emman\source\repos\ToweroofHanoi\ToweroofHanoi\obj\Debug\ToweroofHanoi.csproj.CoreCompileInputs.cache
+C:\Users\emman\source\repos\ToweroofHanoi\ToweroofHanoi\obj\Debug\ToweroofHanoi.exe
+C:\Users\emman\source\repos\ToweroofHanoi\ToweroofHanoi\obj\Debug\ToweroofHanoi.pdb
